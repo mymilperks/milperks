@@ -1,0 +1,24 @@
+{
+  "name": "milperks",
+  "version": "1.0.0",
+  "description": "MyMilPerks - Every military benefit, discount, scholarship, and perk. One place.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server -p 3000",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mymilperks/milperks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mymilperks/milperks/issues"
+  },
+  "homepage": "https://github.com/mymilperks/milperks#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
